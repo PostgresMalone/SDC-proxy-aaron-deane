@@ -24,3 +24,8 @@ coverage
 build/
 dist/
 
+#Database Credentials
+/database/config.js
+
+# New Relic Config
+newrelic.js
